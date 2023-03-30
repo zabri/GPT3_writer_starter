@@ -1,0 +1,20 @@
+body {
+    min-width: 250px;
+    background-color: rgba(0, 0, 0, 0.582);
+    color: white;
+    font-weight: 500;
+}
+
+#key_input{
+    border-radius: 20px;
+}
+#save_key_button, #change_key_button{
+    background-color: rgb(13, 125, 133);
+    border-radius: 15px;
+    color: white;
+
+}
+
+#key_entered {
+    display: none;
+}
